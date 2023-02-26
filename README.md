@@ -7,7 +7,7 @@
   <p>Welcome to the collection of code snippets related to compiler design! Here, you'll find a range of helpful scripts and functions to streamline the process of parsing and analyzing programming languages. Whether you're a seasoned programmer or just starting out, this repo is sure to make your life easier!</p>
 
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Code counting GIF" width="500" height="333">
-  <p><code>code_to_count_comments_and_lines.py</code></p>
+  <p><code>making_life_easy.py</code></p>
 
   
  <h2>Code to count the number of comments and lines in a file</h2>
